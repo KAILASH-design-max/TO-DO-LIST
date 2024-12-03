@@ -64,21 +64,6 @@ You can manage tasks directly via the Django admin interface.
 
 Visit: http://127.0.0.1:8000/todos/
 Log in with the superuser credentials you created earlier.
-Project Structure
-bash
-Copy code
-todo-list
-├── todo_project/          # Django project directory
-│   ├── settings.py        # Project settings
-│   ├── urls.py            # Project URL configuration
-├── todo/                  # App directory
-│   ├── models.py          # Task model definition
-│   ├── views.py           # API views
-│   ├── serializers.py     # DRF serializers
-│   ├── urls.py            # App-specific URL configuration
-│   ├── admin.py           # Admin panel configurations
-├── manage.py              # Django management script
-├── requirements.txt       # Python dependencies
 
 
 
