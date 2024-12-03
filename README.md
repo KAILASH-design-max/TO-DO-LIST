@@ -15,7 +15,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://https://github.com/KAILASH-design-max/TO-DO-LIST/edit/main/TO-DO LIST
+git clone https://github.com/KAILASH-design-max/TO-DO-LIST?tab=readme-ov-file
 cd django-todo-backend
 Create a virtual environment:
 
